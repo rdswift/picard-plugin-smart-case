@@ -1,0 +1,6 @@
+"manifest.description" = "Ce plugin ajoute une nouvelle fonction de script `$smart_case(texte)` permettant de Mettre En Majuscule La Première Lettre De Chaque Mot Du Texte."
+"manifest.long_description" = "Ce plugin ajoute une nouvelle fonction de script `$smart_case(texte)` permettant de Mettre En Majuscule La Première Lettre De Chaque Mot Du Texte. La conversion laisse tels quels les mots contenant des majuscules intégrées (par exemple : USA ou DoA).\n\nCette fonctionnalité s'appuie sur le plugin Picard v2 « Smart Title Case » de Sophist (inspiré d'un plugin antérieur de Javier Kohen)."
+"manifest.name" = "Étui intelligent"
+
+"help.smartcase.documentation" = "Mettre En Majuscule La Première Lettre De Chaque Mot Du Texte. La conversion laisse tels quels les mots contenant des majuscules intégrées (par exemple : USA ou DoA)."
+"help.smartcase.signature" = "$smart_case(texte)"

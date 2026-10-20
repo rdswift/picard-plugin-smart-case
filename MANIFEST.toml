@@ -1,0 +1,20 @@
+uuid = "c1fc9ddc-142b-4b4c-9953-286c4fc4ce52"
+name = "Smart Case"
+authors = ["Bob Swift"]
+description = "This plugin adds a new scripting function `$smart_case(text)` to Capitalize The First Character In Every Word Of The Text."
+api = ['3.0']
+license = "GPL-2.0-or-later"
+license_url = "https://www.gnu.org/licenses/gpl-3.0.html"
+categories = ["scripting"]
+homepage = "https://picard-plugins-user-guides.readthedocs.io/en/latest/smart_case/user_guide.html"
+report_bugs_to = "https://github.com/rdswift/picard-plugin-smart-case/issues"
+long_description = "This plugin adds a new scripting function `$smart_case(text)` to Capitalize The First Character In Every Word Of The Text. The conversion leaves words containing embedded uppercase as-is (i.e. USA or DoA).\n\nThis is based on the Picard v2 plugin \"Smart Title Case\" by Sophist (based on an earlier plugin by Javier Kohen)."
+
+[name_i18n]
+fr = "Étui intelligent"
+
+[description_i18n]
+fr = "Ce plugin ajoute une nouvelle fonction de script `$smart_case(texte)` permettant de Mettre En Majuscule La Première Lettre De Chaque Mot Du Texte."
+
+[long_description_i18n]
+fr = "Ce plugin ajoute une nouvelle fonction de script `$smart_case(texte)` permettant de Mettre En Majuscule La Première Lettre De Chaque Mot Du Texte. La conversion laisse tels quels les mots contenant des majuscules intégrées (par exemple : USA ou DoA).\n\nCette fonctionnalité s'appuie sur le plugin Picard v2 « Smart Title Case » de Sophist (inspiré d'un plugin antérieur de Javier Kohen)."

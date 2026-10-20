@@ -1,0 +1,6 @@
+"manifest.description" = "This plugin adds a new scripting function `$smart_case(text)` to Capitalize The First Character In Every Word Of The Text."
+"manifest.long_description" = "This plugin adds a new scripting function `$smart_case(text)` to Capitalize The First Character In Every Word Of The Text. The conversion leaves words containing embedded uppercase as-is (i.e. USA or DoA).\n\nThis is based on the Picard v2 plugin \"Smart Title Case\" by Sophist (based on an earlier plugin by Javier Kohen)."
+"manifest.name" = "Smart Case"
+
+"help.smartcase.documentation" = "Capitalize The First Character On Every Word Of The Text. Words containing embedded uppercase are left as-is (i.e. USA or DoA)."
+"help.smartcase.signature" = "$smart_case(text)"
